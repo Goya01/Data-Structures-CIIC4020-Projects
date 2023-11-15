@@ -1,0 +1,51 @@
+ID,Title,Author,Genre,Last Checkout Date,Checked Out
+1,The Secret of the Old Clock,Carolyn Keene,Mystery,2023-07-15,false
+2,The Catcher in the Rye,J.D. Salinger,Classics,2022-09-28,true
+3,Treasure Island,Robert Louis Stevenson,Adventure,2023-03-10,false
+4,Dune,Frank Herbert,Science Fiction,2022-12-05,true
+5,Pride and Prejudice,Jane Austen,Fiction,2023-01-22,false
+6,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,2022-11-27,true
+7,The Great Gatsby,F. Scott Fitzgerald,Classics,2023-05-03,false
+8,The Hobbit,J.R.R. Tolkien,Adventure,2023-02-20,true
+9,Neuromancer,William Gibson,Science Fiction,2022-10-12,false
+10,To Kill a Mockingbird,Harper Lee,Fiction,2023-06-14,true
+11,The Da Vinci Code,Dan Brown,Mystery,2022-09-18,false
+12,The Road,Cormac McCarthy,Fiction,2023-08-01,true
+13,Frankenstein,Mary Shelley,Science Fiction,2022-11-09,false
+14,The Odyssey,Homer,Classics,2023-04-29,true
+15,The Alchemist,Paulo Coelho,Adventure,2022-08-09,false
+16,1984,George Orwell,Science Fiction,2022-06-29,true
+17,Brave New World,Aldous Huxley,Fiction,2023-05-18,false
+18,The Lord of the Rings,J.R.R. Tolkien,Adventure,2022-07-06,true
+19,The Iliad,Homer,Classics,2023-07-30,false
+20,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,2022-10-20,true
+21,The Road Not Taken and Other Poems,Robert Frost,Fiction,2023-04-15,false
+22,The Art of War,Sun Tzu,Classics,2022-12-08,true
+23,The Stand,Stephen King,Adventure,2023-06-05,false
+24,The Shining,Stephen King,Mystery,2022-12-30,true
+25,The Metamorphosis,Franz Kafka,Classics,2023-02-10,false
+26,The Count of Monte Cristo,Alexandre Dumas,Adventure,2022-11-01,true
+27,The Picture of Dorian Gray,Oscar Wilde,Classics,2023-01-03,false
+28,The Grapes of Wrath,John Steinbeck,Fiction,2023-08-15,true
+29,The Color Purple,Alice Walker,Mystery,2022-08-27,false
+30,The Jungle Book,Rudyard Kipling,Adventure,2023-02-14,true
+31,One Hundred Years of Solitude,Gabriel Garcia Marquez,Fiction,2023-07-02,false
+32,A Tale of Two Cities,Charles Dickens,Classics,2023-08-27,true
+33,The Wind in the Willows,Kenneth Grahame,Adventure,2022-11-17,false
+34,The Little Prince,Antoine de Saint-Exupery,Fiction,2023-07-14,true
+35,Wuthering Heights,Emily Bronte,Classics,2023-06-14,false
+36,The Night Circus,Erin Morgenstern,Adventure,2022-12-05,true
+37,The House of the Spirits,Isabel Allende,Fiction,2023-03-30,false
+38,Like Water for Chocolate,Laura Esquivel,Mystery,2022-09-14,true
+39,The Wind-Up Bird Chronicle,Haruki Murakami,Fiction,2023-01-22,false
+40,The Goldfinch,Donna Tartt,Classics,2022-09-04,true
+41,The Road Less Traveled,M. Scott Peck,Adventure,2022-06-23,false
+42,The Martian,Andy Weir,Science Fiction,2022-10-02,true
+43,The Hunger Games,Suzanne Collins,Adventure,2023-03-07,false
+44,The Name of the Wind,Patrick Rothfuss,Classics,2023-02-28,true
+45,The Secret History,Donna Tartt,Mystery,2023-01-14,false
+46,The Magicians,Lev Grossman,Science Fiction,2022-12-12,true
+47,The Nightingale,Kristin Hannah,Fiction,2023-07-21,false
+48,The Catcher in the Rye,J.D. Salinger,Adventure,2023-04-10,true
+49,The Hobbit,J.R.R. Tolkien,Classics,2022-10-27,false
+50,The Little Prince,Antoine de Saint-Exupery,Mystery,2022-11-09,true
